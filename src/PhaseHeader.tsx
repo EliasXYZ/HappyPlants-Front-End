@@ -167,7 +167,7 @@ export const PhaseHeader = ({
           phaseName={candyMachinePredatesFairLaunch ? 'THE GARDEN' : 'THE GARDEN'}
           desc={''}
           date={candyMachine?.state.goLiveDate}
-          status="Season 2 Incoming"
+          status="Season 2 is Growing 🌱"
         />
       )}
     </>
